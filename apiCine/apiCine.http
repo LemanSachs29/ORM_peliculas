@@ -1,0 +1,8 @@
+@apiCine_HostAddress = http://localhost:5142
+
+GET {{apiCine_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+GET {{apiCine_HostAddress}}/listadoPeliculas/
+Accept: application/json
