@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vxukY6q9MEE=",
+  "dgSpecHash": "pgwIIkmjCrU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\DAW2\\source\\repos\\ORM Películas\\ORM\\ORM.csproj",
+  "projectFilePath": "C:\\Users\\DAW2\\source\\repos\\ORM_peliculas\\ORM\\ORM.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DAW2\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\DAW2\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",

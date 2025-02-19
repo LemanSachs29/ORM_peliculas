@@ -1,22 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\DAW2\\source\\repos\\ORM Pel\u00EDculas\\",
+  "WorkspaceRootPath": "C:\\Users\\DAW2\\source\\repos\\ORM_peliculas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A9FB0FF4-6399-4649-96CA-AA5908B02BE6}|ORM\\ORM.csproj|c:\\users\\daw2\\source\\repos\\orm pel\u00EDculas\\orm\\orm.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A9FB0FF4-6399-4649-96CA-AA5908B02BE6}|ORM\\ORM.csproj|solutionrelative:orm\\orm.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{CC4E42AF-63B7-49BC-B6E0-8D70F920EFE9}|apiCine\\apiCine.csproj|c:\\users\\daw2\\source\\repos\\orm_peliculas\\apicine\\controllers\\peliculacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC4E42AF-63B7-49BC-B6E0-8D70F920EFE9}|apiCine\\apiCine.csproj|solutionrelative:apicine\\controllers\\peliculacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC4E42AF-63B7-49BC-B6E0-8D70F920EFE9}|apiCine\\apiCine.csproj|c:\\users\\daw2\\source\\repos\\orm pel\u00EDculas\\apicine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CC4E42AF-63B7-49BC-B6E0-8D70F920EFE9}|apiCine\\apiCine.csproj|c:\\users\\daw2\\source\\repos\\orm_peliculas\\apicine\\apicine.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CC4E42AF-63B7-49BC-B6E0-8D70F920EFE9}|apiCine\\apiCine.csproj|solutionrelative:apicine\\apicine.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC4E42AF-63B7-49BC-B6E0-8D70F920EFE9}|apiCine\\apiCine.csproj|c:\\users\\daw2\\source\\repos\\orm_peliculas\\apicine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CC4E42AF-63B7-49BC-B6E0-8D70F920EFE9}|apiCine\\apiCine.csproj|solutionrelative:apicine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9FB0FF4-6399-4649-96CA-AA5908B02BE6}|ORM\\ORM.csproj|c:\\users\\daw2\\source\\repos\\orm pel\u00EDculas\\orm\\controllers\\peliculacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9FB0FF4-6399-4649-96CA-AA5908B02BE6}|ORM\\ORM.csproj|solutionrelative:orm\\controllers\\peliculacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A9FB0FF4-6399-4649-96CA-AA5908B02BE6}|ORM\\ORM.csproj|c:\\users\\daw2\\source\\repos\\orm_peliculas\\orm\\clases\\cinecontexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9FB0FF4-6399-4649-96CA-AA5908B02BE6}|ORM\\ORM.csproj|solutionrelative:orm\\clases\\cinecontexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC4E42AF-63B7-49BC-B6E0-8D70F920EFE9}|apiCine\\apiCine.csproj|c:\\users\\daw2\\source\\repos\\orm pel\u00EDculas\\apicine\\apicine.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{CC4E42AF-63B7-49BC-B6E0-8D70F920EFE9}|apiCine\\apiCine.csproj|solutionrelative:apicine\\apicine.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+      "AbsoluteMoniker": "D:0:0:{A9FB0FF4-6399-4649-96CA-AA5908B02BE6}|ORM\\ORM.csproj|c:\\users\\daw2\\source\\repos\\orm_peliculas\\orm\\models\\cinecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9FB0FF4-6399-4649-96CA-AA5908B02BE6}|ORM\\ORM.csproj|solutionrelative:orm\\models\\cinecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9FB0FF4-6399-4649-96CA-AA5908B02BE6}|ORM\\ORM.csproj|c:\\users\\daw2\\source\\repos\\orm_peliculas\\orm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9FB0FF4-6399-4649-96CA-AA5908B02BE6}|ORM\\ORM.csproj|solutionrelative:orm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,64 +33,89 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
+          "DockedWidth": 228,
           "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ORM",
-              "DocumentMoniker": "C:\\Users\\DAW2\\source\\repos\\ORM Pel\u00EDculas\\ORM\\ORM.csproj",
-              "RelativeDocumentMoniker": "ORM\\ORM.csproj",
-              "ToolTip": "C:\\Users\\DAW2\\source\\repos\\ORM Pel\u00EDculas\\ORM\\ORM.csproj",
-              "RelativeToolTip": "ORM\\ORM.csproj",
+              "Title": "PeliculaController.cs",
+              "DocumentMoniker": "C:\\Users\\DAW2\\source\\repos\\ORM_peliculas\\apiCine\\Controllers\\PeliculaController.cs",
+              "RelativeDocumentMoniker": "apiCine\\Controllers\\PeliculaController.cs",
+              "ToolTip": "C:\\Users\\DAW2\\source\\repos\\ORM_peliculas\\apiCine\\Controllers\\PeliculaController.cs",
+              "RelativeToolTip": "apiCine\\Controllers\\PeliculaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T13:25:58.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "apiCine",
+              "DocumentMoniker": "C:\\Users\\DAW2\\source\\repos\\ORM_peliculas\\apiCine\\apiCine.csproj",
+              "RelativeDocumentMoniker": "apiCine\\apiCine.csproj",
+              "ToolTip": "C:\\Users\\DAW2\\source\\repos\\ORM_peliculas\\apiCine\\apiCine.csproj",
+              "RelativeToolTip": "apiCine\\apiCine.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-14T13:09:23.717Z",
+              "WhenOpened": "2025-02-19T13:25:00.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DAW2\\source\\repos\\ORM_peliculas\\apiCine\\Program.cs",
+              "RelativeDocumentMoniker": "apiCine\\Program.cs",
+              "ToolTip": "C:\\Users\\DAW2\\source\\repos\\ORM_peliculas\\apiCine\\Program.cs",
+              "RelativeToolTip": "apiCine\\Program.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAxwDoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T13:15:48.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CineContext.cs",
+              "DocumentMoniker": "C:\\Users\\DAW2\\source\\repos\\ORM_peliculas\\ORM\\Models\\CineContext.cs",
+              "RelativeDocumentMoniker": "ORM\\Models\\CineContext.cs",
+              "ToolTip": "C:\\Users\\DAW2\\source\\repos\\ORM_peliculas\\ORM\\Models\\CineContext.cs",
+              "RelativeToolTip": "ORM\\Models\\CineContext.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAAD4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T11:55:29.701Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "apiCine.http",
-              "DocumentMoniker": "C:\\Users\\DAW2\\source\\repos\\ORM Pel\u00EDculas\\apiCine\\apiCine.http",
-              "RelativeDocumentMoniker": "apiCine\\apiCine.http",
-              "ToolTip": "C:\\Users\\DAW2\\source\\repos\\ORM Pel\u00EDculas\\apiCine\\apiCine.http",
-              "RelativeToolTip": "apiCine\\apiCine.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-02-13T12:36:34.979Z"
+              "Title": "CineContexto.cs",
+              "DocumentMoniker": "C:\\Users\\DAW2\\source\\repos\\ORM_peliculas\\ORM\\Clases\\CineContexto.cs",
+              "RelativeDocumentMoniker": "ORM\\Clases\\CineContexto.cs",
+              "ToolTip": "C:\\Users\\DAW2\\source\\repos\\ORM_peliculas\\ORM\\Clases\\CineContexto.cs",
+              "RelativeToolTip": "ORM\\Clases\\CineContexto.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA0wBQAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T11:54:30.124Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\DAW2\\source\\repos\\ORM Pel\u00EDculas\\apiCine\\Program.cs",
-              "RelativeDocumentMoniker": "apiCine\\Program.cs",
-              "ToolTip": "C:\\Users\\DAW2\\source\\repos\\ORM Pel\u00EDculas\\apiCine\\Program.cs",
-              "RelativeToolTip": "apiCine\\Program.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\DAW2\\source\\repos\\ORM_peliculas\\ORM\\Program.cs",
+              "RelativeDocumentMoniker": "ORM\\Program.cs",
+              "ToolTip": "C:\\Users\\DAW2\\source\\repos\\ORM_peliculas\\ORM\\Program.cs",
+              "RelativeToolTip": "ORM\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T11:49:41.74Z",
-              "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PeliculaController.cs",
-              "DocumentMoniker": "C:\\Users\\DAW2\\source\\repos\\ORM Pel\u00EDculas\\ORM\\Controllers\\PeliculaController.cs",
-              "RelativeDocumentMoniker": "ORM\\Controllers\\PeliculaController.cs",
-              "ToolTip": "C:\\Users\\DAW2\\source\\repos\\ORM Pel\u00EDculas\\ORM\\Controllers\\PeliculaController.cs",
-              "RelativeToolTip": "ORM\\Controllers\\PeliculaController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T12:33:16.872Z",
+              "WhenOpened": "2025-02-19T11:52:08.779Z",
               "EditorCaption": ""
             }
           ]

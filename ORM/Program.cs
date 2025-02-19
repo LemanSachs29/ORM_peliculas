@@ -1,9 +1,9 @@
 ﻿// See https://aka.ms/new-console-template for more information
-//using ORM.Negocio;
-//using ORM.Models;
-//using ORM.Necogio;
 
-Console.WriteLine("Hello, World!");
+using ORM.Models;
+using ORM.Controllers;
+
+//Console.WriteLine("Hello, World!");
 
 
 //actoresControllers oActoresControllers=new actoresControllers();
@@ -32,13 +32,13 @@ miActor.FechaNacimiento = new DateOnly(1946, 6, 6);
 
 //oActoresControllers.DeletedActore(5);
 
-//PeliculaController miController = new PeliculaController();
+PeliculaController miController = new PeliculaController();
 
-//miController.ListadoPelicula();
+var pelicula = miController.ListadoPelicula();
 
-//Pelicula pelicula = new Pelicula();
+Console.WriteLine("Pelicula");
 
-//miController.DeletePelicula(5);
+
 
 
 

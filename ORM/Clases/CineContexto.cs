@@ -18,7 +18,7 @@ namespace Orm.Clases
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
 
-            optionsBuilder.UseMySql("server=localhost;database=cine;user=root;password=admin",
+            optionsBuilder.UseMySql("server=localhost;database=cine;user=root;password=",
                new MySqlServerVersion(new Version(8, 0, 25))); // Especifica la versión de MySQL
 
         }

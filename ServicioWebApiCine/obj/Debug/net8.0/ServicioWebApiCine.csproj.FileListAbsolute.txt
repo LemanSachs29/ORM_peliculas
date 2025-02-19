@@ -39,3 +39,14 @@ C:\Users\DAW2\source\repos\ORM Películas\ServicioWebApiCine\bin\Debug\net8.0\My
 C:\Users\DAW2\source\repos\ORM Películas\ServicioWebApiCine\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
 C:\Users\DAW2\source\repos\ORM Películas\ServicioWebApiCine\bin\Debug\net8.0\ORM.dll
 C:\Users\DAW2\source\repos\ORM Películas\ServicioWebApiCine\bin\Debug\net8.0\ORM.pdb
+C:\Users\DAW2\source\repos\ORM_peliculas\ServicioWebApiCine\obj\Debug\net8.0\ServicioWebApiCine.csproj.AssemblyReference.cache
+C:\Users\DAW2\source\repos\ORM_peliculas\ServicioWebApiCine\obj\Debug\net8.0\ServicioWebApiCine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DAW2\source\repos\ORM_peliculas\ServicioWebApiCine\obj\Debug\net8.0\ServicioWebApiCine.AssemblyInfoInputs.cache
+C:\Users\DAW2\source\repos\ORM_peliculas\ServicioWebApiCine\obj\Debug\net8.0\ServicioWebApiCine.AssemblyInfo.cs
+C:\Users\DAW2\source\repos\ORM_peliculas\ServicioWebApiCine\obj\Debug\net8.0\ServicioWebApiCine.csproj.CoreCompileInputs.cache
+C:\Users\DAW2\source\repos\ORM_peliculas\ServicioWebApiCine\obj\Debug\net8.0\ServicioWebApiCine.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\DAW2\source\repos\ORM_peliculas\ServicioWebApiCine\obj\Debug\net8.0\ServicioWebApiCine.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DAW2\source\repos\ORM_peliculas\ServicioWebApiCine\obj\Debug\net8.0\ServicioWebApiCine.sourcelink.json
+C:\Users\DAW2\source\repos\ORM_peliculas\ServicioWebApiCine\obj\Debug\net8.0\ServicioWebApiCine.dll
+C:\Users\DAW2\source\repos\ORM_peliculas\ServicioWebApiCine\obj\Debug\net8.0\refint\ServicioWebApiCine.dll
+C:\Users\DAW2\source\repos\ORM_peliculas\ServicioWebApiCine\obj\Debug\net8.0\ServicioWebApiCine.pdb

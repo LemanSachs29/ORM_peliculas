@@ -51,10 +51,13 @@ app.MapGet("/listadoPeliculas", () =>
 .WithOpenApi();
 
 
-app.MapGet("/altaPelicula", () =>
+app.MapPost("/agregarPelicula", () =>
 {
 
     PeliculaController oPeliculaController = new PeliculaController();
+
+    oPeliculaController.AddPelicula([Frombody], Pelicula);
+    
 
 
 

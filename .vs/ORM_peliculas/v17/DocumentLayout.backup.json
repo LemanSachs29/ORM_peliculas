@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DAW2\\source\\repos\\ORM_peliculas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9FB0FF4-6399-4649-96CA-AA5908B02BE6}|ORM\\ORM.csproj|c:\\users\\daw2\\source\\repos\\orm_peliculas\\orm\\models\\cinecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9FB0FF4-6399-4649-96CA-AA5908B02BE6}|ORM\\ORM.csproj|solutionrelative:orm\\models\\cinecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9FB0FF4-6399-4649-96CA-AA5908B02BE6}|ORM\\ORM.csproj|c:\\users\\daw2\\source\\repos\\orm_peliculas\\orm\\clases\\cinecontexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9FB0FF4-6399-4649-96CA-AA5908B02BE6}|ORM\\ORM.csproj|solutionrelative:orm\\clases\\cinecontexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9FB0FF4-6399-4649-96CA-AA5908B02BE6}|ORM\\ORM.csproj|c:\\users\\daw2\\source\\repos\\orm_peliculas\\orm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9FB0FF4-6399-4649-96CA-AA5908B02BE6}|ORM\\ORM.csproj|solutionrelative:orm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 228,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CineContext.cs",
+              "DocumentMoniker": "C:\\Users\\DAW2\\source\\repos\\ORM_peliculas\\ORM\\Models\\CineContext.cs",
+              "RelativeDocumentMoniker": "ORM\\Models\\CineContext.cs",
+              "ToolTip": "C:\\Users\\DAW2\\source\\repos\\ORM_peliculas\\ORM\\Models\\CineContext.cs",
+              "RelativeToolTip": "ORM\\Models\\CineContext.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAAD4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T11:55:29.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CineContexto.cs",
+              "DocumentMoniker": "C:\\Users\\DAW2\\source\\repos\\ORM_peliculas\\ORM\\Clases\\CineContexto.cs",
+              "RelativeDocumentMoniker": "ORM\\Clases\\CineContexto.cs",
+              "ToolTip": "C:\\Users\\DAW2\\source\\repos\\ORM_peliculas\\ORM\\Clases\\CineContexto.cs",
+              "RelativeToolTip": "ORM\\Clases\\CineContexto.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA0wBQAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T11:54:30.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DAW2\\source\\repos\\ORM_peliculas\\ORM\\Program.cs",
+              "RelativeDocumentMoniker": "ORM\\Program.cs",
+              "ToolTip": "C:\\Users\\DAW2\\source\\repos\\ORM_peliculas\\ORM\\Program.cs",
+              "RelativeToolTip": "ORM\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T11:52:08.779Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
