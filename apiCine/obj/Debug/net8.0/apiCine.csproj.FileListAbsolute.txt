@@ -46,7 +46,6 @@ C:\Users\DAW2\source\repos\ORM_peliculas\apiCine\bin\Debug\net8.0\ORM.runtimecon
 C:\Users\DAW2\source\repos\ORM_peliculas\apiCine\bin\Debug\net8.0\ORM.exe
 C:\Users\DAW2\source\repos\ORM_peliculas\apiCine\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\DAW2\source\repos\ORM_peliculas\apiCine\bin\Debug\net8.0\appsettings.json
-C:\Users\DAW2\source\repos\ORM_peliculas\apiCine\bin\Debug\net8.0\apiCine.staticwebassets.endpoints.json
 C:\Users\DAW2\source\repos\ORM_peliculas\apiCine\bin\Debug\net8.0\apiCine.exe
 C:\Users\DAW2\source\repos\ORM_peliculas\apiCine\bin\Debug\net8.0\apiCine.deps.json
 C:\Users\DAW2\source\repos\ORM_peliculas\apiCine\bin\Debug\net8.0\apiCine.runtimeconfig.json
@@ -75,14 +74,11 @@ C:\Users\DAW2\source\repos\ORM_peliculas\apiCine\obj\Debug\net8.0\apiCine.source
 C:\Users\DAW2\source\repos\ORM_peliculas\apiCine\obj\Debug\net8.0\scopedcss\bundle\apiCine.styles.css
 C:\Users\DAW2\source\repos\ORM_peliculas\apiCine\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\DAW2\source\repos\ORM_peliculas\apiCine\obj\Debug\net8.0\staticwebassets.development.json
-C:\Users\DAW2\source\repos\ORM_peliculas\apiCine\obj\Debug\net8.0\staticwebassets.build.endpoints.json
 C:\Users\DAW2\source\repos\ORM_peliculas\apiCine\obj\Debug\net8.0\staticwebassets\msbuild.apiCine.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\DAW2\source\repos\ORM_peliculas\apiCine\obj\Debug\net8.0\staticwebassets\msbuild.apiCine.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
 C:\Users\DAW2\source\repos\ORM_peliculas\apiCine\obj\Debug\net8.0\staticwebassets\msbuild.build.apiCine.props
 C:\Users\DAW2\source\repos\ORM_peliculas\apiCine\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.apiCine.props
 C:\Users\DAW2\source\repos\ORM_peliculas\apiCine\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.apiCine.props
 C:\Users\DAW2\source\repos\ORM_peliculas\apiCine\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\DAW2\source\repos\ORM_peliculas\apiCine\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\DAW2\source\repos\ORM_peliculas\apiCine\obj\Debug\net8.0\apiCine.csproj.Up2Date
 C:\Users\DAW2\source\repos\ORM_peliculas\apiCine\obj\Debug\net8.0\apiCine.dll
 C:\Users\DAW2\source\repos\ORM_peliculas\apiCine\obj\Debug\net8.0\refint\apiCine.dll
