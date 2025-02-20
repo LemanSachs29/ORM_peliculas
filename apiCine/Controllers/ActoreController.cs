@@ -21,11 +21,11 @@ namespace ApiCine.Controllers
         /// <summary>
         /// Obtener todos los actores
         /// </summary>
-        [HttpGet("listado")]
+        [HttpGet("listadoActores")]
         public async Task<ActionResult<List<Actore>>> ListadoActores()
         {
             var actores = await _context.Actores.ToListAsync();
-            return Ok(actores);
+            return actores;
         }
 
         /// <summary>

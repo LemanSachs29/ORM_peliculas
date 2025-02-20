@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\VistaORMpeliculas.props" />
+</Project>

@@ -19,11 +19,11 @@ namespace ApiCine.Controllers
         /// <summary>
         /// Obtener todas las películas
         /// </summary>
-        [HttpGet("listado")]
+        [HttpGet("listadoPeliculas")]
         public async Task<ActionResult<List<Pelicula>>> ListadoPeliculas()
         {
             var peliculas = await _context.Peliculas.ToListAsync();
-            return Ok(peliculas);
+            return peliculas;
         }
 
         /// <summary>

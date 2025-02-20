@@ -1,11 +1,12 @@
 {
   "Version": 1,
-  "Hash": "0q1hroWKStL3W+ToWtZxgaO8O1RqEbHYxTalQhjzCsA=",
+  "Hash": "Pt9QzPr+2hXpbMBbsj6i8Nv2WL+ouPlfhjdakKfrxRc=",
   "Source": "apiCine",
   "BasePath": "_content/apiCine",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": []
+  "Assets": [],
+  "Endpoints": []
 }

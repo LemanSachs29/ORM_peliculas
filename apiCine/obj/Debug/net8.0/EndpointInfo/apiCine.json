@@ -17,10 +17,7 @@
             "content": {
               "application/json": {
                 "schema": {
-                  "type": "array",
-                  "items": {
-                    "$ref": "#/components/schemas/Pelicula"
-                  }
+                  "$ref": "#/components/schemas/PeliculaListActionResult"
                 }
               }
             }
@@ -28,15 +25,263 @@
         }
       }
     },
-    "/altaPelicula": {
-      "get": {
+    "/agregarPelicula": {
+      "post": {
         "tags": [
           "apiCine"
         ],
         "operationId": "altaPelicula",
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Pelicula"
+              }
+            }
+          },
+          "required": true
+        },
         "responses": {
           "200": {
-            "description": "OK"
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/borrarPelicula/{id}": {
+      "delete": {
+        "tags": [
+          "apiCine"
+        ],
+        "operationId": "borrarPelicula",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int64"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/actualizarTituloPelicula/{id}": {
+      "put": {
+        "tags": [
+          "apiCine"
+        ],
+        "operationId": "actualizarTituloPelicula",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int64"
+            }
+          },
+          {
+            "name": "nuevoTitulo",
+            "in": "query",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/listadoActores": {
+      "get": {
+        "tags": [
+          "apiCine"
+        ],
+        "operationId": "listadoActores",
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ActoreListActionResult"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/agregarActor": {
+      "post": {
+        "tags": [
+          "apiCine"
+        ],
+        "operationId": "altaActor",
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Actore"
+              }
+            }
+          },
+          "required": true
+        },
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/borrarActor/{id}": {
+      "delete": {
+        "tags": [
+          "apiCine"
+        ],
+        "operationId": "borrarActor",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int64"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/actualizarNombreActor/{id}": {
+      "put": {
+        "tags": [
+          "apiCine"
+        ],
+        "operationId": "actualizarNombreActor",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int64"
+            }
+          },
+          {
+            "name": "nuevoNombre",
+            "in": "query",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/actualizarActor/{id}": {
+      "put": {
+        "tags": [
+          "apiCine"
+        ],
+        "operationId": "actualizarActor",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int64"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Actore"
+              }
+            }
+          },
+          "required": true
+        },
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
           }
         }
       }
@@ -44,6 +289,10 @@
   },
   "components": {
     "schemas": {
+      "ActionResult": {
+        "type": "object",
+        "additionalProperties": false
+      },
       "Actore": {
         "type": "object",
         "properties": {
@@ -72,6 +321,22 @@
             "type": "array",
             "items": {
               "$ref": "#/components/schemas/PeliculaActor"
+            },
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "ActoreListActionResult": {
+        "type": "object",
+        "properties": {
+          "result": {
+            "$ref": "#/components/schemas/ActionResult"
+          },
+          "value": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/Actore"
             },
             "nullable": true
           }
@@ -521,6 +786,22 @@
           },
           "pelicula": {
             "$ref": "#/components/schemas/Pelicula"
+          }
+        },
+        "additionalProperties": false
+      },
+      "PeliculaListActionResult": {
+        "type": "object",
+        "properties": {
+          "result": {
+            "$ref": "#/components/schemas/ActionResult"
+          },
+          "value": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/Pelicula"
+            },
+            "nullable": true
           }
         },
         "additionalProperties": false

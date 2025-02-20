@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Nuevo perfil",
+    "Projects": [
+      {
+        "Path": "ORM\\ORM.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "apiCine\\apiCine.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "VistaORMpeliculas\\VistaORMpeliculas.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
