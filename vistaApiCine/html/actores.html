@@ -1,0 +1,93 @@
+﻿<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Actores</title>
+    <link rel="stylesheet" href="./../css/styles.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
+</head>
+<body>
+
+    <div class="container mt-4">
+        <h1 class="text-center mb-4">Gestión de Actores</h1>
+
+        <!-- Listado de Actores -->
+        <div class="card p-3 mb-4">
+            <h2 class="mb-3">Listado de Actores</h2>
+            <table class="table table-striped table-hover">
+                <thead class="table-dark">
+                    <tr>
+                        <th>ID</th>
+                        <th>Nombre</th>
+                        <th>Apellido</th>
+                        <th>Fecha de nacimiento</th>
+                        <th>Navionalidad</th>
+                    </tr>
+                </thead>
+                <tbody id="tablaActores">
+                    <tr>
+                        <td colspan="7" class="text-center">Cargando actores...</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+
+        <!-- Formulario para Agregar Actor -->
+        <div class="card p-3 mb-4">
+            <h2 class="mb-3">Agregar Actor</h2>
+            <form id="formAgregar">
+                <div class="mb-3">
+                    <label for="nombre" class="form-label">nombre</label>
+                    <input name="nombre" type="text" class="form-control" id="nombre" required>
+                </div>
+                <div class="mb-3">
+                    <label for="apellido" class="form-label">Apellido</label>
+                    <input type="text"name="apellido" class="form-control" id="apellido" rows="3"></input>
+                </div>
+                <div class="mb-3">
+                    <label for="fecha" class="form-label">Fecha de nacimiento</label>
+                    <input name="fechaNacimiento" type="date" class="form-control" id="fecha" required>
+                </div>
+                <div class="mb-3">
+                    <label for="nacionalidad" class="form-label">Nacionalidad</label>
+                    <input name="nacionalidad" type="text" class="form-control" id="nacionalidad" required>
+                </div>
+                <button id="botonAgregar" type="submit" class="btn btn-primary">Agregar</button>
+            </form>
+        </div>
+
+        <!-- Formulario para Editar Actor -->
+        <div class="card p-3 mb-4">
+            <h2 class="mb-3">Editar Actor</h2>
+            <form id="formEditar">
+                <div class="mb-3">
+                    <label for="idEditar" class="form-label">ID del actor</label>
+                    <input name="id" type="number" class="form-control" id="idEditar" required>
+                </div>
+                <div class="mb-3">
+                    <label for="nombreEditar" class="form-label">Nuevo nombre</label>
+                    <input name="nuevoNombre" type="text" class="form-control" id="nombreEditar" required>
+                </div>
+                <button id="botonEditar" type="submit" class="btn btn-warning">Editar</button>
+            </form>
+        </div>
+
+        <!-- Formulario para Eliminar Actor -->
+        <div class="card p-3 mb-4">
+            <h2 class="mb-3">Eliminar Actor</h2>
+            <form id="formEliminar">
+                <div class="mb-3">
+                    <label for="idEliminar" class="form-label">ID del actor</label>
+                    <input name="id" type="number" class="form-control" id="idEliminar" required>
+                </div>
+                <button id="botonEliminar" type="submit" class="btn btn-danger">Eliminar</button>
+            </form>
+        </div>
+    </div>
+
+
+    <script src="../js/actores.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

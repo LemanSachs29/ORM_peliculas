@@ -1,18 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\DAW2\\source\\repos\\ORM_peliculas\\",
+  "WorkspaceRootPath": "C:\\Users\\Juan\\source\\repos\\ORM_peliculas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{60421CA8-02F9-43B7-A4B6-E0B5721AA81F}|vistaApiCine\\vistaApiCine.csproj|c:\\users\\daw2\\source\\repos\\orm_peliculas\\vistaapicine\\js\\peliculas.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{60421CA8-02F9-43B7-A4B6-E0B5721AA81F}|vistaApiCine\\vistaApiCine.csproj|solutionrelative:vistaapicine\\js\\peliculas.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{60421CA8-02F9-43B7-A4B6-E0B5721AA81F}|vistaApiCine\\vistaApiCine.csproj|c:\\users\\juan\\source\\repos\\orm_peliculas\\vistaapicine\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{60421CA8-02F9-43B7-A4B6-E0B5721AA81F}|vistaApiCine\\vistaApiCine.csproj|solutionrelative:vistaapicine\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC4E42AF-63B7-49BC-B6E0-8D70F920EFE9}|apiCine\\apiCine.csproj|c:\\users\\daw2\\source\\repos\\orm_peliculas\\apicine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC4E42AF-63B7-49BC-B6E0-8D70F920EFE9}|apiCine\\apiCine.csproj|solutionrelative:apicine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{60421CA8-02F9-43B7-A4B6-E0B5721AA81F}|vistaApiCine\\vistaApiCine.csproj|C:\\Users\\DAW2\\source\\repos\\ORM_peliculas\\vistaapicine\\html\\peliculas.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{60421CA8-02F9-43B7-A4B6-E0B5721AA81F}|vistaApiCine\\vistaApiCine.csproj|solutionrelative:vistaapicine\\html\\peliculas.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{60421CA8-02F9-43B7-A4B6-E0B5721AA81F}|vistaApiCine\\vistaApiCine.csproj|C:\\Users\\Juan\\source\\repos\\ORM_peliculas\\vistaapicine\\css\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{60421CA8-02F9-43B7-A4B6-E0B5721AA81F}|vistaApiCine\\vistaApiCine.csproj|solutionrelative:vistaapicine\\css\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +18,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 266,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Peliculas.html",
-              "DocumentMoniker": "C:\\Users\\DAW2\\source\\repos\\ORM_peliculas\\vistaApiCine\\html\\Peliculas.html",
-              "RelativeDocumentMoniker": "vistaApiCine\\html\\Peliculas.html",
-              "ToolTip": "C:\\Users\\DAW2\\source\\repos\\ORM_peliculas\\vistaApiCine\\html\\Peliculas.html",
-              "RelativeToolTip": "vistaApiCine\\html\\Peliculas.html",
-              "ViewState": "AgIAADYAAAAAAAAAAAAAAFcAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-02-21T10:44:15.977Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\DAW2\\source\\repos\\ORM_peliculas\\apiCine\\Program.cs",
-              "RelativeDocumentMoniker": "apiCine\\Program.cs",
-              "ToolTip": "C:\\Users\\DAW2\\source\\repos\\ORM_peliculas\\apiCine\\Program.cs",
-              "RelativeToolTip": "apiCine\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACMAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T11:56:12.608Z"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "peliculas.js",
-              "DocumentMoniker": "C:\\Users\\DAW2\\source\\repos\\ORM_peliculas\\vistaApiCine\\js\\peliculas.js",
-              "RelativeDocumentMoniker": "vistaApiCine\\js\\peliculas.js",
-              "ToolTip": "C:\\Users\\DAW2\\source\\repos\\ORM_peliculas\\vistaApiCine\\js\\peliculas.js",
-              "RelativeToolTip": "vistaApiCine\\js\\peliculas.js",
-              "ViewState": "AgIAAHEAAAAAAAAAAAApwH8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-02-21T11:13:08.875Z",
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\Juan\\source\\repos\\ORM_peliculas\\vistaApiCine\\index.html",
+              "RelativeDocumentMoniker": "vistaApiCine\\index.html",
+              "ToolTip": "C:\\Users\\Juan\\source\\repos\\ORM_peliculas\\vistaApiCine\\index.html",
+              "RelativeToolTip": "vistaApiCine\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-02-21T19:05:26.197Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "index.css",
+              "DocumentMoniker": "C:\\Users\\Juan\\source\\repos\\ORM_peliculas\\vistaApiCine\\css\\index.css",
+              "RelativeDocumentMoniker": "vistaApiCine\\css\\index.css",
+              "ToolTip": "C:\\Users\\Juan\\source\\repos\\ORM_peliculas\\vistaApiCine\\css\\index.css",
+              "RelativeToolTip": "vistaApiCine\\css\\index.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-21T19:04:43.039Z"
             }
           ]
         }
