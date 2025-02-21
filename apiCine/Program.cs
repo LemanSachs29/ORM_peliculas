@@ -8,6 +8,18 @@ using ORM.Models;
 
 var builder = WebApplication.CreateBuilder(args);
 
+
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("AllowAll",
+        builder =>
+        {
+            builder.AllowAnyOrigin()  // Permite solicitudes de cualquier origen
+                   .AllowAnyMethod()  // Permite cualquier método (GET, POST, PUT, DELETE)
+                   .AllowAnyHeader(); // Permite cualquier encabezado
+        });
+});
+
 // Agregar soporte para controladores y Swagger
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
@@ -20,6 +32,8 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
+
+app.UseCors("AllowAll");
 
 // Endpoints para Películas
 app.MapGet("/listadoPeliculas", () =>

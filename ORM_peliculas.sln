@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ORM", "ORM\ORM.csproj", "{A
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "apiCine", "apiCine\apiCine.csproj", "{CC4E42AF-63B7-49BC-B6E0-8D70F920EFE9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VistaORMpeliculas", "VistaORMpeliculas\VistaORMpeliculas.csproj", "{F9F98449-6C0F-4C4B-846A-78EC9227092E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vistaApiCine", "vistaApiCine\vistaApiCine.csproj", "{60421CA8-02F9-43B7-A4B6-E0B5721AA81F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +23,10 @@ Global
 		{CC4E42AF-63B7-49BC-B6E0-8D70F920EFE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CC4E42AF-63B7-49BC-B6E0-8D70F920EFE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CC4E42AF-63B7-49BC-B6E0-8D70F920EFE9}.Release|Any CPU.Build.0 = Release|Any CPU
-		{F9F98449-6C0F-4C4B-846A-78EC9227092E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F9F98449-6C0F-4C4B-846A-78EC9227092E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F9F98449-6C0F-4C4B-846A-78EC9227092E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F9F98449-6C0F-4C4B-846A-78EC9227092E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60421CA8-02F9-43B7-A4B6-E0B5721AA81F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60421CA8-02F9-43B7-A4B6-E0B5721AA81F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60421CA8-02F9-43B7-A4B6-E0B5721AA81F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60421CA8-02F9-43B7-A4B6-E0B5721AA81F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
